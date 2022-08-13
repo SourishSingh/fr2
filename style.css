@@ -1,0 +1,11 @@
+ body{
+    color: white;
+    background-color: gray;
+}
+.heading{
+    width: 80%;
+    font-size: 23px;
+}
+.name_of_object{
+    color: yellow;
+}
